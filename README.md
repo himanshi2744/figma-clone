@@ -86,9 +86,6 @@ To get started with the real-time Figma Clone project, follow these steps:
 - `utils/`: Utility functions and configuration files.
 - `lib/`: Library files and integrations (e.g., Liveblocks).
 
-## Credits 🙌
-
-A heartfelt thank you to [Adrian Hajdin](https://github.com/adrianhajdin) for inspiring and guiding us in the creation of this fantastic and fun project!
 
 ## Contributions 🌟
 
