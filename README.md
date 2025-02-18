@@ -46,7 +46,7 @@ To get started with the real-time Figma Clone project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/figma-clone.git
+    git clone https://https://github.com/himanshi2744/figma-clone.git
     ```
 
 2. Navigate to the project directory:
